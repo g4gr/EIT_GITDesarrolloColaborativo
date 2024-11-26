@@ -1,5 +1,5 @@
 # EIT_GITDesarrolloColaborativo
 Primer repositorio creado en Github
 
-## descripcion
-Este es un repositorio creado como tarea para el curso de GIT brindado por EducacionIT
+## Descripcion
+Este es un repositorio creado como tarea para el curso de _Git : Desarrollo Colaborativo_ brindado por [EducacionIT](https://www.educacionit.com/curso-de-git)
